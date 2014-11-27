@@ -8,11 +8,11 @@
                         http://java.sun.com/xml/ns/portlet/portlet-app_1_0.xsd">
 
     <portlet>
-        <description>Events Portlet</description>
-        <portlet-name>newcomers-training</portlet-name>
+        <description>EventsPortlet</description>
+        <portlet-name>EventsPortlet</portlet-name>
         <display-name>Newcomers Training Portlet</display-name>
 
-        <portlet-class>org.exoplatform.support.MyPortlet</portlet-class>
+        <portlet-class>org.exoplatform.support.EventsPortlet</portlet-class>
 
         <supports>
             <mime-type>text/html</mime-type>
@@ -24,7 +24,7 @@
         <portlet-info>
             <title>Events Portlet</title>
             <short-title>Events Portlet</short-title>
-            <keywords>events new comer</keywords>
+            <keywords>events newcomer</keywords>
         </portlet-info>
     </portlet>
 

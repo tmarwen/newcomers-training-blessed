@@ -1,0 +1,12 @@
+#events-table .eventItemName {
+    color: cornflowerblue;
+}
+
+#events-table .eventItemName > span {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#events-table a.eventDeleteIcon {
+    cursor: pointer;
+}
